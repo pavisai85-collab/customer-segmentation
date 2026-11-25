@@ -9,7 +9,7 @@ scaling, PCA and K-Means (k = 3). Built with Python, scikit-learn and Streamlit.
 - Premium Spenders: high income, no children, highest spend
 
 ## Live app
-(https://customer-segmentation-r5uecv6ypj45tajmx3bs7x.streamlit.app/)
+https://customer-segmentation-r5uecv6ypj45tajmx3bs7x.streamlit.app/
 
 ## Files
 - app.py: the Streamlit app (single customer form and file upload)
